@@ -1,0 +1,31 @@
+
+body {
+	background-color: #00AEEF;
+	/*color: white;*/
+	padding-top: 100px;
+	padding-right: 80px;
+	padding-left: 70px;
+}
+
+#image1 {
+  text-align: left;
+  height: 150px;
+  width: 150px;
+  padding-top: 30px;
+
+}
+
+.information_body {
+	font-style: italic;
+}
+
+#About {
+	width: 100%;
+
+}
+
+#Listen {
+	width: 100%;
+	font-size: 30px;
+	font-style: bold;
+}
