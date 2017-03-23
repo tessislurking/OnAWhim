@@ -1,16 +1,29 @@
-
+.navbar-default {
+  background-color: #00AEEF;
+  font-style:"Arial";
+  font-size:20px;
+}
+#navbar ul li a {
+  color:black;
+  background-color:#00AEEF;
+}
+.navbar-brand {
+  color: black;
+  font-family:"Arial";
+  font-size:30px;
+}
 body {
-	background-color: #00AEEF;
-	/*color: white;*/
+	background-color: #EFF3F3;
 	padding-top: 100px;
+	font-family: "Arial";
 	padding-right: 80px;
 	padding-left: 70px;
 }
 
 #image1 {
-  text-align: left;
-  height: 150px;
-  width: 150px;
+  text-align:left;
+  height: 130px;
+  width: 130px;
   padding-top: 30px;
 
 }
@@ -42,7 +55,13 @@ h3 {
   font-family: "Arial";
 }
 .information_body {
-  font-size: 20px;
+  font-size: 18px;
   color: black;
   font-family: "Arial";
+}
+h4 {
+  text-align: center;
+  font-family:"Arial";
+  color:black;
+  font-size:25px;
 }
