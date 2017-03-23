@@ -27,9 +27,22 @@ body {
 #Listen {
 	width: 100%;
 	font-size: 30px;
-	font-style: bold;
+	font-family: "Arial";
 }
 
 h3 {
 	text-align: center;
+	font-family: "Arial";
+	color: black;
+	font-size: 25px;
+}
+#About_the_show {
+  font-size: 25px;
+  color: black;
+  font-family: "Arial";
+}
+.information_body {
+  font-size: 20px;
+  color: black;
+  font-family: "Arial";
 }
