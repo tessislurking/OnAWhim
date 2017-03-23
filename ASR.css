@@ -8,9 +8,12 @@
   background-color:#00AEEF;
 }
 .navbar-brand {
-  color: black;
+  color: #000000;
   font-family:"Arial";
   font-size:30px;
+}
+.navbar-brand :focus {
+  color:black;
 }
 body {
 	background-color: #EFF3F3;
@@ -22,8 +25,8 @@ body {
 
 #image1 {
   text-align:left;
-  height: 130px;
-  width: 130px;
+  height: 170px;
+  width: 170px;
   padding-top: 30px;
 
 }
